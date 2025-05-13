@@ -1,7 +1,7 @@
 # Darbu Pārvaldnieks ar MinHeap
 
 ## 1. Projekta apraksts
-Šī projekta mērķis ir izveidot komandrindas (CLI) lietojumprogrammu personīgo vai darba uzdevumu efektīvai pārvaldībai. Galvenā funkcija ir nodrošināt lietotājam iespēju ātri pievienot jaunus darbus, norādot to aprakstu un prioritāti, kā arī ērti to pārskatīt un pārvaldīt tā esošos darbus
+Šī projekta mērķis ir izveidot komandrindas (CLI) lietojumprogrammu personīgo vai darba uzdevumu efektīvai pārvaldībai. Galvenā funkcija ir nodrošināt lietotājam iespēju ātri pievienot jaunus darbus, norādot to aprakstu un prioritāti, kā arī ērti to pārskatīt un pārvaldīt jau esošos jeb iepriekš pievienotos darbus.
 
 **Galvenā funkcionalitāte:**
 
